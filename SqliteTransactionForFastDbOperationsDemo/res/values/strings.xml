@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="noOfData">No. of entries to insert.</string>
+    <string name="app_name">SqliteTransactionForFastDbOperationsDemo</string>
+    <string name="fastButton">fastLoad</string>
+    <string name="slowButton">normalLoad</string>
+
+</resources>
